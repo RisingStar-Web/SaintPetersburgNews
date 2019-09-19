@@ -16,7 +16,7 @@ extension UIColor {
     //Saint Petersburg      -   0095da
     
     class func color_redMain() -> UIColor {
-        return hexStringToUIColor("#0095da")
+        return hexStringToUIColor("#914853")
     }
     
     class func color_grayMain() -> UIColor {
